@@ -76,7 +76,7 @@ Public Class Scan
                 Button1.Visible = False
             End If
         Else
-            'Absolutely FUCKING nothing!
+            
         End If
     End Sub
 
@@ -87,7 +87,7 @@ Public Class Scan
             Button2.Visible = False
             Button3.Visible = False
         Else
-            'Absolutely FUCKING nothing!
+            
         End If
     End Sub
 
@@ -95,7 +95,7 @@ Public Class Scan
         ListBox2.Enabled = False
         ListBox2.SelectedIndex = -1
         If ListBox2.Items.Count = 0 Then
-            MsgBox("...the fuck you doin?", MsgBoxStyle.Critical)
+            MsgBox("Error", MsgBoxStyle.Critical)
             Exit Sub
         End If
 
