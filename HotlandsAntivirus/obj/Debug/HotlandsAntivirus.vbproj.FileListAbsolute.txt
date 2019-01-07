@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2015\Projects\HotlandsAntivirus\HotlandsAntivirus\bin\Debug\HotlandsAntivirus.exe
+c:\users\admin\documents\visual studio 2015\Projects\HotlandsAntivirus\HotlandsAntivirus\bin\Debug\HotlandsAntivirus.pdb
+c:\users\admin\documents\visual studio 2015\Projects\HotlandsAntivirus\HotlandsAntivirus\bin\Debug\HotlandsAntivirus.xml
+c:\users\admin\documents\visual studio 2015\Projects\HotlandsAntivirus\HotlandsAntivirus\obj\Debug\HotlandsAntivirus.vbprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\HotlandsAntivirus\HotlandsAntivirus\obj\Debug\HotlandsAntivirus.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\HotlandsAntivirus\HotlandsAntivirus\obj\Debug\HotlandsAntivirus.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\HotlandsAntivirus\HotlandsAntivirus\obj\Debug\HotlandsAntivirus.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\HotlandsAntivirus\HotlandsAntivirus\obj\Debug\HotlandsAntivirus.exe
+c:\users\admin\documents\visual studio 2015\Projects\HotlandsAntivirus\HotlandsAntivirus\obj\Debug\HotlandsAntivirus.xml
+c:\users\admin\documents\visual studio 2015\Projects\HotlandsAntivirus\HotlandsAntivirus\obj\Debug\HotlandsAntivirus.pdb
+c:\users\admin\documents\visual studio 2015\Projects\HotlandsAntivirus\HotlandsAntivirus\obj\Debug\HotlandsAntivirus.SelectDrive.resources
+c:\users\admin\documents\visual studio 2015\Projects\HotlandsAntivirus\HotlandsAntivirus\obj\Debug\HotlandsAntivirus.Scan.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\HotlandsAntivirus\HotlandsAntivirus\obj\Debug\HotlandsAntivirus.Notepad.resources
